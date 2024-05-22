@@ -1,5 +1,5 @@
 
-<div align="center"> <img src="https://res.cloudinary.com/dvzingci9/image/upload/v1691682049/Personal_Branding/Frame_164_meg7rg.png"> </div>
+<div align="center"> <img src="[https://res.cloudinary.com/dvzingci9/image/upload/v1691682049/Personal_Branding/Frame_164_meg7rg.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fnodemy.vn%2Ffront-end-la-gi-11-ky-nang-de-tro-thanh-front-end-developer%2F&psig=AOvVaw3FTv1x5al6wskQi1dDbvXD&ust=1716447144794000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOi2ho7WoIYDFQAAAAAdAAAAABAE)"> </div>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nguyen+Thanh+Huy!;" />
